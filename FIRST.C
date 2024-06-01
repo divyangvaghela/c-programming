@@ -6,7 +6,7 @@ main() {
   clrscr();
   printf(" Name : Vaghela Divyang Jayeshbhai ");
   printf("\n Age  : 21 ");
-  printf("\n School : Navarang high school ");
+  printf("\n School : Navarang  ");
   getch();
 
 }
